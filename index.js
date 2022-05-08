@@ -9,7 +9,7 @@ const Employees = [];
 //writes html file
 const writeFile = (data) => {
     return new Promise((resolve,reject) => {
-        fs.writeFile('.dist/index.html', data, err => {
+        fs.writeFile('./dist/index.html', data, err => {
             if(err) {
                 reject(err);
                 return;
@@ -215,7 +215,7 @@ const addEmployee = (data) => {
             const { name, id, email, school, extraEmployee } = data;
             const intern = new Intern(name, id, email, school);
 
-            employee.push(intern);
+            Employees.push(intern);
 
             addEmployee(extraEmployee);
         })

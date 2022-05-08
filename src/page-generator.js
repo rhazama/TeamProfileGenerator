@@ -39,7 +39,7 @@ function generateHTML(data) {
         employeeCards.push(employeeCard(employee));
     });
 
-    const joinedCards = employeeCard.join('');
+    const joinedCards = employeeCards.join('');
 
     return `
     <!doctype html>
