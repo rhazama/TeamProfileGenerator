@@ -14,8 +14,8 @@ An application where users can have easy access to organize team information
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-In terminal: 
-npm install
+In terminal: <br />
+npm install <br />
 node index.js
 ## Usage
 You can checkout the application through the following link: Helpful especially to team leaders to easily generate team contact information
