@@ -14,7 +14,9 @@ An application where users can have easy access to organize team information
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-
+In terminal: <br />
+npm install <br />
+node index.js
 ## Usage
 You can checkout the application through the following link: Helpful especially to team leaders to easily generate team contact information
 ## License
@@ -24,7 +26,7 @@ This application is covered by the MIT license.
 ## Contributing
 Ryan Hazama
 ## Tests
-NPM run test
+N/a
 ## Questions
 Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
 Send any questions you may have to: rhazama01@gmail.com<br />
