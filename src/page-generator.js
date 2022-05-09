@@ -7,9 +7,9 @@ function employeeCard(employee) {
                     ${employee.getName()}<br>
                     Engineer
                 </h2>
-                <p class="text-center border">ID: 002</p>
-                <p class="text-center border">Email: <a href="mailto:engineercompany@test.com">engineercompany@test.com</a></p>
-                <p class="text-center border">Github: <a href="https://github.com/test" target="_blank">jProbst</a></p>
+                <p class="text-center border">ID: ${engineer.getId()}</p>
+                <p class="text-center border">Email: <a href="mailto:${engineer.getEmail()}"></a>${engineer.getEmail()}</p>
+                <p class="text-center border">Github: <a href="https://github.com/${engineer.getGithub()}" target="_blank"></a>${engineer.getGithub()}</p>
             </div>
         </div>
         `
@@ -63,7 +63,7 @@ function generateHTML(data) {
                             Manager
                         </h2>
                         <p class="text-center border">ID: ${data[0].getId()}</p>
-                        <p class="text-center border">Email: <a href="mailto:${data[0].getEmail()}">m${data[0].getEmail()}</a></p>
+                        <p class="text-center border">Email: <a href="mailto:${data[0].getEmail()}">${data[0].getEmail()}</a></p>
                         <p class="text-center border">Office Number: ${data[0].getOfficeNum()}</p>
                     </div>
                 </div>
