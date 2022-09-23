@@ -11,13 +11,13 @@ An application where users can have easy access to organize team information.
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-]- [Questions](#questions)
+- [Questions](#questions)
 ## Installation
 In terminal: <br />
 npm install <br />
 node index.js
 ## Usage
-Helpful especially to team leaders to easily generate team contact information
+Helpful especially to team leaders to easily generate team contact information.
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
