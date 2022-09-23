@@ -3,7 +3,7 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-An application where users can have easy access to organize team information
+An application where users can have easy access to organize team information.
 
 ## Table of Contents
 - [Description](#description)
@@ -11,8 +11,7 @@ An application where users can have easy access to organize team information
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+]- [Questions](#questions)
 ## Installation
 In terminal: <br />
 npm install <br />
@@ -26,8 +25,6 @@ Helpful especially to team leaders to easily generate team contact information
 This application is covered by the MIT license.
 ## Contributing
 Ryan Hazama
-## Tests
-N/a
 ## Questions
 Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
 Send any questions you may have to: rhazama01@gmail.com<br />
