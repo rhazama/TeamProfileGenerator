@@ -17,7 +17,6 @@ In terminal: <br />
 npm install <br />
 node index.js
 ## Usage
-You can checkout the application through the following link: </br> 
 Helpful especially to team leaders to easily generate team contact information
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
