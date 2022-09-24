@@ -13,9 +13,13 @@ An application where users can have easy access to organize team information.
 - [Contributing](#contributing)
 - [Questions](#questions)
 ## Installation
-In terminal: <br />
-npm install <br />
-node index.js
+This application requires Node and can be installed with inquirer dependencies.
+<br />
+Once downloaded, in terminal type "node index.js" and the application should start running.
+<br />
+<br />
+Instructions for Node download can be found through this link: https://www.npmjs.com/package/inquirer
+<br />
 ## Usage
 Helpful especially to team leaders to easily generate team contact information.
 ## License
