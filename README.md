@@ -14,7 +14,6 @@ An application where users can have easy access to organize team information.
 - [Questions](#questions)
 ## Installation
 This application requires Node and can be installed with inquirer dependencies.
-<br />
 Once downloaded, in terminal type "node index.js" and the application should start running.
 <br />
 <br />
