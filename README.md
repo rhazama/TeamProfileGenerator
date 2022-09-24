@@ -20,7 +20,7 @@ Once downloaded, in terminal type "node index.js" and the application should sta
 Instructions for Node download can be found through this link: https://www.npmjs.com/package/inquirer
 <br />
 ## Usage
-Helpful especially to team leaders to easily generate team contact information.
+Made for team leaders to generate team contact information.
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
